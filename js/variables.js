@@ -4,6 +4,5 @@ var city = "mumbai";
 state = "maharashtra";
 // let accountID = 3344;  const cannot be change. 
 console.log (accountID);
-console.table([accountID,mailID,city,state])
 
-mailID ='gujarshrikant09@gmail.com';
+let mailID ='gujarshrikant09@gmail.com';
